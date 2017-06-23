@@ -1,5 +1,4 @@
 <!-- footer start -->
-<div class="fb-comments" data-href="http://whistlerhusky.github.io" data-numposts="5"></div>
 
 <footer class="site-footer">
   <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> Subscribe!</span></a>
